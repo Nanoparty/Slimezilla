@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Timer
+  - Exp
+  - Enemy
+  - Slime
+  - Spawner
+  - Upgrade
+  - Scythe
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Ground
+    uniqueID: 809340183
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Exp
+    uniqueID: 3213353759
+    locked: 0
+  - name: Enemy
+    uniqueID: 1928342543
+    locked: 0
+  - name: Projectile
+    uniqueID: 3327621069
+    locked: 0
+  - name: Player
+    uniqueID: 2112595905
+    locked: 0
+  - name: Sythe
+    uniqueID: 2595960917
+    locked: 0
